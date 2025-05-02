@@ -1,0 +1,15 @@
+name: python_starter_app
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+      - pydantic
+      - asyncio
+      - numpy
+      - pandas
+      - python-dotenv
+      - black
+      - flake8

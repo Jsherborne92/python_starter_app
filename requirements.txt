@@ -1,0 +1,7 @@
+pydantic
+asyncio
+numpy
+pandas
+python-dotenv
+black
+flake8
