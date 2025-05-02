@@ -5,3 +5,5 @@ pandas
 python-dotenv
 black
 flake8
+httpx
+colorlog
